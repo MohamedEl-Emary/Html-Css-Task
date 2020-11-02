@@ -1,0 +1,231 @@
+/* ---Public Style--- */
+
+* , *:after , *:before {
+    margin: 0;
+    padding: 0;
+}
+body{
+        font-family: Tahoma, Arial ;
+    
+}
+.container{
+    width: 85%;
+    margin: auto;
+    
+}
+/* ---navbar Style--- */
+.navbar{
+    background: black;
+    overflow: hidden;
+    padding: 20px 0;
+}
+.navbar .logo{
+    width: 50%;
+    float: left;
+}
+
+.navbar .logo label{
+    display: block;
+    width: 30px;
+    height: 40px;
+    background: url('../images/logo.png') no-repeat ;
+    position: absolute;
+    top: 5px;
+    left: 15px;
+    background-size: cover;
+    padding: 20px;
+    
+    
+    
+}
+.navbar .logo h2{
+    font-size: 40px;
+    font-weight: bold;
+    color: aliceblue;    
+}
+.navbar .ul-list{
+    width: 50%;
+    float: left;
+    list-style: none;
+    
+}
+.navbar .ul-list .list-item{
+    display: inline-block;
+}
+.navbar .ul-list .list-item a{
+    display: block;
+    color: cornsilk;
+    text-decoration: none;
+    padding: 15px 15px;
+    font-weight: bold;    
+}
+.navbar .ul-list .list-item a:hover{
+    color: #222;
+    background: #fff;
+}
+/* ---Home Style--- */
+.home{
+    height: 800px;
+    background: url(../images/Home1.jpg);
+    background-size: cover;
+    text-align: center;
+    position: relative;
+    
+}
+.home .home-content{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.home .home-content .home-title{
+    font-size: 72px;
+    background: #fff;
+    opacity: 0.5;
+}
+
+.home .home-content .home-des{
+    font-size: 30px;
+    background: #fff;
+    opacity: 0.6;
+    margin-bottom: 50px;
+}
+.home .home-content .home-btn{
+    border: 0;
+    background: #fff;
+    font-size: 20px;
+    font-weight: bold;
+    width; 150px;
+    padding: 20px;
+    cursor: pointer;
+    opacity: 0.8;
+    
+}
+.home .home-content .home-btn:hover{
+    background:#000;
+    color: aliceblue;
+}
+/* ---Offers Style--- */
+.offers {
+    padding-top: 50px;
+    background: #000;
+    overflow: hidden;
+    
+}
+.offers .offers-title{
+    text-align: center;
+    font-size: 60px;
+    padding-bottom: 20px;
+    color: aliceblue;
+}
+.box div{
+    width: 25%;
+    float: left;
+    font-size: 0;
+    position: relative;
+    
+}
+.box div img{
+    width: 100%;
+}
+
+.box div .overlay{
+    font-size: 20px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background:rgba(255,255,255, 0.3);
+    opacity: 0;
+}
+.box div .overlay span{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    background: #fff;
+    display: block;
+    padding: 10px 20px;
+    border: 2px solid #000;
+    cursor: pointer;
+    font-weight: bold;
+}
+.box div:hover .overlay{
+    opacity: 1;
+}
+/* ---platforms Style--- */
+.platforms{
+    background:#000;
+    overflow: hidden;
+    text-align: center;
+}
+.platforms .container{
+    width: 75%;
+    margin: auto;
+    background: #fff;
+    overflow: hidden;
+}
+.platforms .container .platforms-title{
+    font-size: 45px;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+.platforms .container .box div{
+    width: 33.3333%;
+    float: left;
+    font-size: 0;
+    position: relative;
+    
+}
+/* ---Contact us Style--- */
+.contact{
+    text-align: center;
+    padding: 50px 0;
+}
+.contact .container{
+    width: 50%;
+}
+.contact .contact-title{
+    padding: 50px 0;
+    font-size: 45px;
+}
+.contact form{
+    width: 70;
+    margin: auto;
+}
+.contact form input{
+    box-sizing: border-box;
+    margin-bottom: 10px;
+    padding: 5px;
+}
+.contact form .form-input{
+    overflow: hidden;
+}
+.contact form .form-input input{
+    width: 49%;
+    
+}
+.contact form .form-input input[type=text] {
+    float: left
+}
+.contact form .form-input input[type=email] {
+    float: right;
+}
+.contact form input.sub{
+    width: 100%;
+}
+.contact form textarea{
+    width: 100%;
+}
+.contact form input[type=submit] {
+    cursor: pointer;
+    color: #000;
+    background: #fff;
+    border: 1px solid #000;
+    width: 60%;
+        
+}
+
+
+
