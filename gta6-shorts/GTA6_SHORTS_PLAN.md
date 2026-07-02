@@ -212,4 +212,40 @@ The second clipper job couldn't run (workspace out of credits — free plan, 5.9
 
 ---
 
+## CINEMATIC THUMBNAIL GENERATION PROMPTS (one per Short)
+
+Copy-paste ready for any AI image generator (Higgsfield `generate_image`, Midjourney, etc.). All are 9:16 vertical (1080×1920). Text overlays are specified inside each prompt; if your generator mangles text, generate without the text line and add the Bebas Neue overlay in an editor using the global subtitle style above.
+
+**SHORT 1 — "EASY MONEY. GONE WRONG."**
+> Cinematic vertical 9:16 movie-poster shot, GTA 6 art style: a shirtless athletic man in blue sunglasses and a camo hat crouched on the wooden roof of a Florida stilt house, toolbox beside him, staring down at the camera with a smirk. Low-angle hero shot, 35mm anamorphic, golden-hour sunlight blasting from behind creating a hard rim light, deep teal sky with towering cumulus clouds, hyper-saturated tropical palette, long dramatic shadows. Bold condensed all-caps Bebas Neue text overlay top-center: "EASY MONEY." in white, "GONE WRONG." beneath it in hot pink #FF3EA5, thick black outline. High contrast, gritty film grain, 8k detail.
+
+**SHORT 2 — "FIVE WORDS START IT ALL"**
+> Cinematic vertical 9:16 split composition, crime-drama poster: top half a weathered man in his 50s with a grey goatee and white Hawaiian shirt pointing demandingly beside a silver pickup truck in warm morning light; bottom half an extreme close-up of a hand slamming a cash register drawer stuffed with dollar bills, sparks of dust in hard tungsten light. Torn-paper divider between halves. Chiaroscuro lighting, crushed blacks, amber-vs-cyan color clash, 50mm lens, shallow depth of field. Bebas Neue overlay across the seam: "FIVE WORDS" in white, "START IT ALL" in electric cyan #3EE6FF, heavy black stroke. Ultra high contrast, cinematic grade.
+
+**SHORT 3 — "THIS CHANGES EVERYTHING"**
+> Cinematic vertical 9:16 one-sheet: a Latina woman in her mid-20s with long dark hair, wearing an oversized grey prison-release t-shirt, walking straight at camera through a massive industrial sliding prison gate, backlit by a blazing orange sunset that silhouettes coils of barbed wire above her. Volumetric god rays through the gate, dust particles glowing, warm rim light carving her determined expression against a nearly black foreground. Anamorphic lens flare, 40mm, symmetrical composition, film-noir contrast with golden highlights. Bebas Neue overlay stacked in the top third: "THIS CHANGES" in white, "EVERYTHING" in hot pink #FF3EA5 half again as large, thick black outline, subtle drop shadow. Epic, gritty, 8k.
+
+**SHORT 4 — "HE'S BEEN HERE BEFORE"**
+> Cinematic vertical 9:16 interrogation-thriller poster: extreme close-up of a Black male prison guard with glasses seen through steel security mesh, cold fluorescent green-blue lighting, one eyebrow raised in suspicious recognition, reflections of a computer monitor ghosting across the glass between him and camera. Inset circular frame bottom-right showing a young man's profile speaking into a metal intercom, lit by a single harsh sodium lamp. Desaturated institutional palette with one red accent glow. 85mm portrait lens, oppressive vignette, film grain. Bebas Neue overlay top: "HE'S BEEN" in white, "HERE BEFORE…" in electric cyan #3EE6FF with a faint red glow behind the last word, black stroke. Paranoid, documentary-noir mood.
+
+**SHORT 5 — "VICE CITY JUST GOT REAL"**
+> Cinematic vertical 9:16 heist-poster: a woman in a white skull-print bandana mask and dark sunglasses gripping a submachine gun at chest height, bathed in pulsing blood-red strobe light inside a luxury marble-floored lobby, muzzle catching a razor of white light. Smoke haze, hard specular highlights on the gun, deep black shadows swallowing the background, single police-blue light streak from off-frame for red-vs-blue contrast. Low angle, 24mm, dutch tilt 5 degrees, motion tension. Bebas Neue overlay bottom third: "VICE CITY" in white, "JUST GOT REAL" in blood red #FF3B30 with white stroke, both with heavy black drop shadow. Maximum contrast, crime-thriller key art, 8k.
+
+**SHORT 6 — "JUST THE START"**
+> Cinematic vertical 9:16 glamour-noir poster: a confident Latina woman in a shimmering gold sequin dress striding across a luxury yacht deck at sunset, low camera angle making her tower against a molten orange sky, ocean bokeh and champagne-gold lens flare behind her shoulder, wind in her hair. Golden-hour key light with deep violet shadow falloff, gold-vs-purple complementary contrast, anamorphic 40mm, glossy magazine-cover finish with cinematic grain. Bebas Neue overlay top: "JUST THE" in white, "START." in metallic gold #FFD24A extra-large with thick black stroke. Opulent, dangerous, high contrast.
+
+**SHORT 7 — "THE ENDING IS HIDDEN HERE"**
+> Cinematic vertical 9:16 espionage-thriller poster: a woman in a black crop top free-climbing a dark brick wall at night, shot from below, one harsh white floodlight from the side slicing her figure out of pure darkness, fingertips gripping the ledge, city neon glowing faint pink and cyan in the far background haze. Extreme high contrast chiaroscuro, 35mm, deep vignette, mist catching the light beam. Vertical Bebas Neue text running down the left edge, one word per line: "THE" white, "ENDING" cyan #3EE6FF, "IS HERE" white, all with black stroke; right side kept clean to showcase the climb. Mission-Impossible energy, moody, 8k film still.
+
+**SHORT 8 — "ONE RULE RUNS VICE CITY"**
+> Cinematic vertical 9:16 quote-card poster: medium shot of a striking Latina woman in a gold sequin dress walking directly toward camera on a yacht deck, dead-ahead confident stare, blown-out white sun flaring over her shoulder against a magenta-orange sunset sky, hair backlit into a golden halo. High-fashion key light on her face, everything else falling into rich shadow. Oversized white Bebas Neue quotation mark floating top-left. Center text overlay: "ONE RULE RUNS" in white, "VICE CITY" in hot pink #FF3EA5, thick black outline. Thin letterboxed strip along the bottom edge showing a shadowy detective in a dark office lit by a single desk lamp. Ultra-contrast, editorial crime-glamour, 8k.
+
+**SHORT 9 — "THEY KNOW EVERYTHING"**
+> Cinematic vertical 9:16 action poster, camera inside a car mid-crash through a police barricade at night: windshield exploding into a thousand backlit glass shards, orange sparks streaking, red-and-blue police lightbars smearing into long motion-blur ribbons across wet asphalt, silhouetted wooden barrier splintering over the hood. Shutter-drag motion blur, hard red/blue split lighting, crushed blacks, cracked-glass texture creeping in from one corner. 21mm wide lens, chaos composition tilted 3 degrees. Bebas Neue overlay top, tilted with the frame: "THEY KNOW" in white, "EVERYTHING" in blood red #FF3B30 with white stroke and black shadow. Loudest, highest-contrast frame of the set, 8k.
+
+**SHORT 10 — "WHO GREENLIT THIS?!"**
+> Cinematic vertical 9:16 stunt-poster: a motorcycle and leather-clad rider frozen mid-air launching out of the open rear doors of a moving semi-truck on a night highway, trail of orange sparks fanning behind the rear wheel, single blinding headlight flare dead-center, pink and blue city neon towers bokeh'd in the background, wet road mirroring every light. Speed-ramp motion blur on the truck, tack-sharp bike, 70mm telephoto compression, midnight blue palette ripped open by warm spark orange. Bebas Neue overlay bottom: "WHO GREENLIT" in white small caps, "THIS?!" in electric cyan #3EE6FF massive with 8px black stroke; tiny white-on-black pill top corner reading "WAIT FOR IT". Blockbuster key art, extreme contrast, 8k.
+
+---
+
 *Generated with Higgsfield Personal Clipper + Video Analysis · 2026-07-02*
