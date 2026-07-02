@@ -248,4 +248,110 @@ Copy-paste ready for any AI image generator (Higgsfield `generate_image`, Midjou
 
 ---
 
+## UPLOAD METADATA — TITLE / DESCRIPTION / TAGS (per Short)
+
+Conventions used: titles under 70 characters with the hook up front; descriptions open with the hook line (first ~100 chars show in search), end with a CTA + hashtags (3 hashtags max show above the title on Shorts); tags are comma-separated, broad → specific, under YouTube's 500-char limit.
+
+---
+
+**SHORT 1 — Paying Tenants and Prison Pickups**
+- **Title:** His Landlord Sent Him to Do WHAT? 😳 GTA 6 Explained
+- **Description:**
+> Jason's "simple errand" in GTA 6 turns into a full crime spree — and it ends at a prison gate. Who's he picking up? That answer changes everything.
+> Follow for a new GTA 6 breakdown every single day. 🔔
+> #GTA6 #GTAVI #Shorts
+- **Tags:** `gta 6, gta vi, gta 6 trailer, gta 6 trailer 2, jason gta 6, jason duval, gta 6 story, gta 6 breakdown, grand theft auto 6, rockstar games, vice city, gta 6 gameplay, gta 6 details, gta 6 characters, gaming shorts, gta shorts, gta 6 explained`
+
+---
+
+**SHORT 2 — Go Get Me My Checks**
+- **Title:** 5 Words Start the ENTIRE Story of GTA 6
+- **Description:**
+> "Just go get me my checks." Rockstar hid an entire living city inside one rent run — pawn shops, a cargo plane skimming the highway, police raids at dusk.
+> Comment the detail YOU caught — everyone misses one. 👇
+> #GTA6 #Rockstar #Shorts
+- **Tags:** `gta 6, gta vi, gta 6 trailer 2, gta 6 details, gta 6 details you missed, gta 6 breakdown, gta 6 analysis, grand theft auto 6, rockstar games, vice city, gta 6 open world, gta 6 story, jason gta 6, gta 6 plane, gaming shorts, gta 6 hidden details`
+
+---
+
+**SHORT 3 — Lucia Caminos Is Getting Out**
+- **Title:** The Most Important Pickup in Gaming History 🔓 GTA 6
+- **Description:**
+> "I'm here for Lucia Caminos." The first female protagonist in a mainline GTA walks out of prison — and it goes wrong FAST. Rockstar waited 12 years for this shot.
+> Follow — we're breaking down every frame. 🎬
+> #GTA6 #Lucia #Shorts
+- **Tags:** `gta 6, gta vi, lucia gta 6, lucia caminos, gta 6 lucia, gta 6 protagonist, female protagonist gta, gta 6 trailer 2, gta 6 story, gta 6 prison scene, grand theft auto 6, rockstar games, vice city, jason and lucia, gta 6 characters, gaming shorts, gta 6 breakdown`
+
+---
+
+**SHORT 4 — Jason Duval Has Been Here Before**
+- **Title:** The GTA 6 Detail EVERYONE Missed (Watch the Guard)
+- **Description:**
+> The prison guard recognizes Jason — "I think you've been here before." Rockstar never wastes a line of dialogue. So was he an inmate… or a visitor?
+> Comment your theory below. 🧠
+> #GTA6 #GTA6Theory #Shorts
+- **Tags:** `gta 6, gta vi, gta 6 theory, gta 6 theories, jason duval, jason gta 6, gta 6 hidden details, gta 6 details you missed, gta 6 easter eggs, gta 6 prison scene, gta 6 story, grand theft auto 6, rockstar games, gta 6 analysis, gta 6 breakdown, gaming shorts, gta 6 secrets`
+
+---
+
+**SHORT 5 — Hands Up at the Prison Gate**
+- **Title:** Out of Prison for 5 Minutes… 💀 GTA 6 Lucia
+- **Description:**
+> One toast "to new beginnings" — smash cut to armed robbery in a skull mask. And the cop line at the end? The police are the OTHER gang in this game.
+> Like if you caught that — most people don't. 👊
+> #GTA6 #ViceCity #Shorts
+- **Tags:** `gta 6, gta vi, lucia gta 6, gta 6 robbery, gta 6 heist, gta 6 skull mask, gta 6 trailer 2, gta 6 corrupt cops, gta 6 police, jason and lucia, bonnie and clyde, grand theft auto 6, rockstar games, vice city, gta 6 story, gaming shorts, gta 6 breakdown`
+
+---
+
+**SHORT 6 — This Place Is Just the Start**
+- **Title:** She's Planning a Crime Empire in GTA 6 👑
+- **Description:**
+> A gutted apartment, a yacht, a gold dress — and corrupt cops closing in with their names and address. "You and me, we got this." Famous last words in a Rockstar game.
+> Follow to see how it ends. 🔔
+> #GTA6 #Lucia #Shorts
+- **Tags:** `gta 6, gta vi, lucia gta 6, gta 6 story, gta 6 crime empire, gta 6 yacht, gta 6 trailer 2, jason and lucia, gta 6 corrupt cops, grand theft auto 6, rockstar games, vice city, gta 6 ending, gta 6 theory, gaming shorts, gta 6 breakdown, gta 6 characters`
+
+---
+
+**SHORT 7 — Ring the Bell, Then Watch Your Back**
+- **Title:** These 30 Seconds SPOIL How GTA 6 Ends
+- **Description:**
+> Two lines of dialogue give the whole ending away — and nobody noticed. Every Rockstar story punishes ambition. You're watching the fall get set up in real time.
+> Rewatch it, then follow for the full theory. 🧠
+> #GTA6 #GTA6Theory #Shorts
+- **Tags:** `gta 6, gta vi, gta 6 ending, gta 6 theory, gta 6 theories, gta 6 story, gta 6 spoilers, gta 6 betrayal, gta 6 corrupt cops, lucia gta 6, gta 6 trailer 2, grand theft auto 6, rockstar games, vice city, gta 6 analysis, gaming shorts, gta 6 breakdown`
+
+---
+
+**SHORT 8 — Who You Know Is Everything ⭐**
+- **Title:** The Coldest Line Rockstar Has EVER Written 🥶 GTA 6
+- **Description:**
+> "The only thing that matters is who you know… and what you've got." That's not a flex — it's a warning. Even the badges play by Lucia's rule.
+> Run it back, then comment WHO betrays who. I've got a theory. 👇
+> #GTA6 #Lucia #Shorts
+- **Tags:** `gta 6, gta vi, lucia gta 6, gta 6 quotes, gta 6 dialogue, gta 6 trailer 2, gta 6 corrupt cops, gta 6 detective, gta 6 story, gta 6 theory, gta 6 betrayal, grand theft auto 6, rockstar games, vice city, jason and lucia, gaming shorts, gta 6 breakdown`
+
+---
+
+**SHORT 9 — They Got Your Name and Address**
+- **Title:** Someone Just BURNED Them… GTA 6 Goes Crazy 🚨
+- **Description:**
+> Corrupt cops on one side, a street war on the other — so they drive THROUGH a police barricade. Then Rockstar hard-cuts to a gun store commercial. Only GTA does this.
+> Like for the whiplash, follow for the breakdowns. 🔔
+> #GTA6 #Rockstar #Shorts
+- **Tags:** `gta 6, gta vi, gta 6 police chase, gta 6 barricade, gta 6 action, gta 6 trailer 2, gta 6 corrupt cops, gta 6 gun store, ammunation, gta 6 satire, grand theft auto 6, rockstar games, vice city, gta 6 story, jason and lucia, gaming shorts, gta 6 crazy moments`
+
+---
+
+**SHORT 10 — More Guns Than the Law Allows**
+- **Title:** GTA 6 Has Commercials INSIDE the Game 😭 (Unhinged)
+- **Description:**
+> "More guns than the law allows!" Rockstar satire is back — then a motorcycle launches out of a MOVING semi-truck. Who greenlit this?!
+> November 19, 2026. Vice City. Follow so you don't miss launch week. 🗓️
+> #GTA6 #ViceCity #Shorts
+- **Tags:** `gta 6, gta vi, gta 6 funny, gta 6 satire, gta 6 commercial, gta 6 gun store, gta 6 motorcycle, gta 6 stunt, gta 6 semi truck, gta 6 release date, gta 6 november 2026, grand theft auto 6, rockstar games, vice city, gta 6 trailer 2, gaming shorts, gta 6 crazy moments`
+
+---
+
 *Generated with Higgsfield Personal Clipper + Video Analysis · 2026-07-02*
